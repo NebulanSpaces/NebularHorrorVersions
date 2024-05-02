@@ -1,0 +1,16 @@
+{
+    "schemaVersion": 1,
+    "hotfixesFormat": null,
+    "versions": [
+      {
+          "id": "1.2.1",
+          "releasedAt": 1714683441,
+      "updateType": "major",
+          "promotions": {
+              "downloads": {
+                  "generic": "https://onedrive.live.com/download?resid=5826A43057175798!65699&authkey=!ANbRH7GgUKVAoaA"
+              }
+          }
+      }
+    ]
+  }
