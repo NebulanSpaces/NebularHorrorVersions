@@ -1,0 +1,33 @@
+# Visuals and Social
+
+## Added Mods
+- 3D Skin Layers
+- FancyMenu (For customizing)
+- Chat Heads
+- Lootr
+- Drippy Loading Screen (Customizing Loading Screen)
+- Copper Technolgies
+- Konkrete (Mod Lib)
+- Memory Leak Fix
+- What are They Up To
+- Coroutil (Mod Lib)
+- Computer Craft-Tweaked
+- Evolved Cave Dweller
+- BetterF3
+- Seamless Loading Screen
+- Explorers and Natures Compass (Find Biomes and Structures)
+- Computer Craft Create Bridge (Connect Computer Craft with Create)
+- Rubidium Extras and Dynamic Lights
+- Mclo.gs (Server Only)
+- Creative Core (Mod Lib)
+- Just Zoom
+- Eazy Magic
+- Nyf's Spiders
+- Item Physic
+- Fast Leaf Decay
+
+## Removed Mods
+- Fancy Menu Audio Extensions (Doesn't wanna work with Fancy Menu)
+- Better Cave Dweller (Replaced by Evolved Cave Dweller)
+
+Released April 5, 2024
