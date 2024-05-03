@@ -30,4 +30,4 @@
 - Fancy Menu Audio Extensions (Doesn't wanna work with Fancy Menu)
 - Better Cave Dweller (Replaced by Evolved Cave Dweller)
 
-Released April 5, 2024
+Released May 3, 2024
