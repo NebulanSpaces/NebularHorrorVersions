@@ -3,6 +3,17 @@
     "hotfixesFormat": null,
     "versions": [
       {
+        "id": "1.2.1",
+        "releasedAt": 1714683441,
+    "updateType": "major",
+        "promotions": {
+            "downloads": {
+              "curseforge": "https://onedrive.live.com/download?resid=5826A43057175798!65832&authkey=!AO",
+              "generic": "https://onedrive.live.com/download?resid=5826A43057175798!65834&authkey=!ABotnh2CbAMb-Qo"
+            }
+        }
+      },
+      {
         "id": "1.2.2",
         "releasedAt": 1715040220345,
     "updateType": "major",
@@ -13,17 +24,6 @@
               "modrinth": ""
             }
         }
-      },
-      {
-          "id": "1.2.1",
-          "releasedAt": 1714683441,
-      "updateType": "major",
-          "promotions": {
-              "downloads": {
-                "curseforge": "https://onedrive.live.com/download?resid=5826A43057175798!65832&authkey=!AO",
-                "generic": "https://onedrive.live.com/download?resid=5826A43057175798!65834&authkey=!ABotnh2CbAMb-Qo"
-              }
-          }
       }
     ]
   }
