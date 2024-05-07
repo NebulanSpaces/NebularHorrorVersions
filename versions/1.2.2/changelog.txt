@@ -2,7 +2,7 @@
 
 ## Changelog
 
--Steve Dweller is Revamped
+- Steve Dweller is Revamped
 - You can Make Player Shops (Hopefully I Remember)
 - Minimum Menu Resolution is now 800x600 instead of 2560x1440 (My Resolution)
 - Fresh Moves has returned (And Just Expressions if you want eye movement only)
