@@ -1,0 +1,36 @@
+# Monster Updates + Additions
+
+## Changelog
+
+-Steve Dweller is Revamped
+- You can Make Player Shops (Hopefully I Remember)
+- Minimum Menu Resolution is now 800x600 instead of 2560x1440 (My Resolution)
+- Fresh Moves has returned (And Just Expressions if you want eye movement only)
+- You can.... is that a... ɠʅιƚƈԋ ιɳ ƚԋҽ ɯσɾʅԃ? (Mod Hidden for Discovery, find it on your own...)
+- Mimic Dweller is added
+- Disabled Teleporting through journey map, but added /rtp (teleport to random location), /home and /back (returns to death point)
+- More Config File Compatibility
+- You can Finally choose certain sounds to mute/change volume
+- First Person Render makes A Return.
+
+# Added Mods and Texture Packs
+
+- Fresh Moves
+- Just Expressions
+- Rҽԃαƚƈƚҽԃ (Mod Hidden for Discovery)
+- Mimic Dweller
+- First Person
+- Modpack Config Checker
+- Presence Footsteps
+- Spawn Animations
+- Useful Commands (A Group of Mods, dont feel like listing them)
+- Modern Fix
+- Blur
+- Extreme Sound Muffler
+- Lightman's Currency
+- Game Menu Mod Options
+- Configured
+- Catalogue
+- Entity Texture and Model Features
+
+Released May 6, 2024
