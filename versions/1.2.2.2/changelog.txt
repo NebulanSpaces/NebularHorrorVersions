@@ -1,28 +1,28 @@
 ## Energy Gathering Update
 ### Changelog
 ## Added Mods and Resource Packs
-> - Added Mekanism
-> - Added Mekanism: Additions
-> - Added Mekanism: Generators
-> - Added Mekanism: Tools
-> - Added MekanismTweaks
-> - Added Mekanism Cardboard Tooltip
-> - Added Create Railways Navigator
-> - Added Create: Slice & Dice
-> - Added Create: Connected
-> - Added Create: New Age
-> - Added Create Applied Kinetics
-> - Added Create Enchantment Industry
-> - Added Create Goggles
-> - Added Replay Mod
-> - Added Farmers Delight
-> - Added Farmers Delight Plus
-> - Added Serene Seasons
-> - Added Entangled
-> - Added Framed Blocks
-> - Added Pipez
-> - Added Cubic Sun and Moon
-> - Added Emissive Ores
-> - Added Two Moons Texture Pack
+- Added Mekanism
+- Added Mekanism: Additions
+- Added Mekanism: Generators
+- Added Mekanism: Tools
+- Added MekanismTweaks
+- Added Mekanism Cardboard Tooltip
+- Added Create Railways Navigator
+- Added Create: Slice & Dice
+- Added Create: Connected
+- Added Create: New Age
+- Added Create Applied Kinetics
+- Added Create Enchantment Industry
+- Added Create Goggles
+- Added Replay Mod
+- Added Farmers Delight
+- Added Farmers Delight Plus
+- Added Serene Seasons
+- Added Entangled
+- Added Framed Blocks
+- Added Pipez
+- Added Cubic Sun and Moon
+- Added Emissive Ores
+- Added Two Moons Texture Pack
 ## Replaced Mods
-> - Replaced Rubidium with Embeddium
+- Replaced Rubidium with Embeddium
