@@ -36,6 +36,18 @@
               "modrinth": ""
             }
         }
+      },  
+      {
+          "id": "1.2.2.2",
+          "releasedAt": 1717261012242,
+      "updateType": "minor",
+          "promotions": {
+              "downloads": {
+                "curseforge": "",
+                "generic": "",
+                "modrinth": ""
+              }
+          }
       }
     ]
   }
