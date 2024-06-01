@@ -25,4 +25,4 @@
 > - Added Emissive Ores
 > - Added Two Moons Texture Pack
 ## Replaced Mods
-> - Replaced Rubidium with Embeddium           
+> - Replaced Rubidium with Embeddium
