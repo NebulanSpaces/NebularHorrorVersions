@@ -38,14 +38,14 @@
         }
       },  
       {
-          "id": "1.2.2.2",
-          "releasedAt": 1717261012242,
-      "updateType": "minor",
-          "promotions": {
-              "downloads": {
-                "curseforge": "",
-                "generic": "",
-                "modrinth": ""
+        "id": "1.2.2.2",
+        "releasedAt": 1717261012242,
+    "updateType": "minor",
+        "promotions": {
+           "downloads": {
+              "curseforge": "https://1drv.ms/u/s!AphXF1cwpCZYhIxxEsORXZKZOuMitQ?e=ftu18F",
+              "generic": "https://1drv.ms/u/s!AphXF1cwpCZYhIxz4lGeDFLBdewZlw?e=MOB87F",
+              "modrinth": "https://1drv.ms/u/s!AphXF1cwpCZYhIxvu70H_94rYOlAAQ?e=37GhKv"
             }
         }
       }
