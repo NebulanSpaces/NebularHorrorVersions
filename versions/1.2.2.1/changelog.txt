@@ -1,11 +1,11 @@
 ## Just a quick Bug fix
 ### Changelog
-> - Fixed First Person Config
-> - Blacklisted Bazooka
-> - Removed Just Expressions and Fresh Moves seperately, and added the combined ver
-> - Added a Way to teleport back to you're death point
-> - Removed Smooth Swapping for crash issues on client
-> - Sound Physics
-> - Death Quotes
-> - Physics Mod has been added for Ragdolls and stuff, but configured for certain things for performance reasons
-> - Adding Chat Filter to prevent profanity inside the minecraft chat
+- Fixed First Person Config
+- Blacklisted Bazooka
+- Removed Just Expressions and Fresh Moves seperately, and added the combined ver
+- Added a Way to teleport back to you're death point
+- Removed Smooth Swapping for crash issues on client
+- Sound Physics
+- Death Quotes
+- Physics Mod has been added for Ragdolls and stuff, but configured for certain things for performance reasons
+- Adding Chat Filter to prevent profanity inside the minecraft chat
